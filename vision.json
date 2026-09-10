@@ -1,4 +1,3 @@
 {
-  "kill_runner": "yes",
-  "kill_py": "yes"
+  "kill_runner": "no"
 }
